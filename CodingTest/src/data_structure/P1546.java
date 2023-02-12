@@ -1,4 +1,4 @@
-package datastructure;
+package data_structure;
 import java.util.Scanner;
 public class P1546 {
 

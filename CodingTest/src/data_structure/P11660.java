@@ -1,4 +1,4 @@
-package datastructure;
+package data_structure;
 /*NxN개의 수가 NxN크기의 표에 채워져 있다. 표 안의 수 중(X1,y1)에서 (X2,Y2)까지의 합을 구하려 한다.
 X는 행 Y는 열을 의미한다. 예를 들어 N=4이고, 표가 다음과 같이 채워져 있을때.
 1 2 3 4

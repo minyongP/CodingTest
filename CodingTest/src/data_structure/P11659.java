@@ -1,4 +1,4 @@
-package datastructure;
+package data_structure;
 //수 N개가 주어졌을 때 i번째 수에서 j번째 수까지의 합을 구하라.
 import java.io.BufferedReader;
 import java.io.IOException;

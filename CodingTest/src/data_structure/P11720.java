@@ -1,4 +1,4 @@
-package datastructure;
+package data_structure;
 import java.util.Scanner;
 // N개의 숫자가 공백 없이 써 있다. 이 숫자를 모두 합해 출력하라.
 public class P11720 {
