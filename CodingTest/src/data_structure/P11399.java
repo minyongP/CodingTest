@@ -7,7 +7,7 @@ public class P11399 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int N = scanner.nextInt();
-		int[] A = new int[N];!
+		int[] A = new int[N];
 		int[] S = new int[N];	//ÇÕ ¹è¿­
 		
 		for (int i = 0; i < N; i++) {
