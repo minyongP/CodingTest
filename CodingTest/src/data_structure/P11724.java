@@ -30,6 +30,7 @@ public class P11724 {
 		}
 		int count = 0;
 		for (int i = 1; i < N+1; i++) {
+			//방문하지 않은 노드가 없을 때까지 방복
 			if(!visited[i]) {  
 				count++;
 				dfs(i);
