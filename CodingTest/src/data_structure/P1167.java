@@ -1,5 +1,6 @@
 package data_structure;
 //트리의 지름이란, 트리에서 임의의 두 점 사이의 거리 중 가장 긴 것을 말한다. 트리의 지름을 구하는 프로그램을 작성하시오.
+
 import java.util.*;
 
 public class P1167 {
